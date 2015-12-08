@@ -2513,6 +2513,7 @@
 		text-align: right;
 		top: 0;
 		width: 35%;
+		min-width: 300px;
 	}
 
 		#header strong, #header b {
@@ -2544,6 +2545,7 @@
 		position: fixed;
 		text-align: right;
 		width: 35%;
+		min-width: 300px;
 	}
 
 		#footer .icons {
@@ -3168,4 +3170,18 @@
 
 	.labeled-icons {
 		width: 500px;
+	}
+
+	.job-title {
+		color: rgba(255, 255, 255, 0.5);
+    font-size: 1.35em;
+    line-height: 1.75em;
+    margin: 0;
+	}
+
+	.other-titles {
+		color: rgba(255, 255, 255, 0.5);
+    font-size: 1.35em;
+    line-height: 1.75em;
+    margin: 0;
 	}
